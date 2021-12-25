@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "yashx",
+    siteUrl: "https://yashx.dev",
+    title: "Yash Grover",
   },
-  plugins: [],
+  plugins: ["@chakra-ui/gatsby-plugin", "gatsby-plugin-react-helmet"],
 };
